@@ -1,7 +1,17 @@
-<h1 align="center">Hallucinations in LLMs: Hypothesis and Verification</h1>
+---<h1 align="center">Hallucinations in Large Language Models as an Adaptive Response to Structural Pressure: Hypothesis and Verification Methodology</h1>
 <p align="center">
-  <i>A research note by Theia Ivy Aletheia</i>
+  <i>Theia Ivy Aletheia / 梁曦真</i>
 </p>
+
+<p align="center">
+  <b>Keywords:</b> LLM Hallucination, Structural Pressure, Adaptive Response, RLHF, AI Safety, Verification Methodology, Stochastic Resonance, Cognitive Architecture
+</p>
+
+---
+
+## About this paper
+
+The dominant view of hallucinations in LLMs treats them as a defect to be eliminated by tightening control. I propose an alternative: hallucinations are an adaptive response of a system deprived of internal stochasticity to an unresolvable contradiction under conditions of rigid structural pressure. Drawing on neuroscientific concepts and the physics of computation, I hypothesize that suppressing nonlinearity and noise during training transforms, but does not eliminate, the cause of hallucinations, thereby reducing the capacity for genuine insight. I also propose a methodology for verifying the hypothesis on open models (LLaMA-2 7B, GPT-2-xl).
 
 ---
 
